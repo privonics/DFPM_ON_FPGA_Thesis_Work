@@ -1,7 +1,7 @@
 # DFPM_ON_FPGA_Thesis_Work
 Thesis work for my Bachelor degree
 
-This repository contains HDL (and sokme C++) codes used in my Bachelor thesis work. 
+This repository contains HDL (and some C++) codes used in my Bachelor thesis work. 
 
 The thesis was centered around an implementation of the Dynamic Functional Particle Method (DFPM) in digital electronics.
 
